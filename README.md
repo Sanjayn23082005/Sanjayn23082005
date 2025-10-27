@@ -48,7 +48,7 @@ I love learning new tech, improving my coding skills, and contributing to open-s
   <a href="https://github.com/Sanjayn23082005">
     <img src="https://img.shields.io/badge/GitHub-Sanjayn23082005-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sanjay-n-077478292/)">
     <img src="https://img.shields.io/badge/LinkedIn-Sanjay%20N-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
