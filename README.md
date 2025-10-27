@@ -16,7 +16,7 @@ I love learning new tech, improving my coding skills, and contributing to open-s
 | **Frontend** | HTML · CSS · JavaScript · React |
 | **Backend** | Python · Node.js *(basic)* |
 | **Database** | MySQL · MongoDB |
-| **Tools** | Git · GitHub · VS Code · Postman |
+| **Tools** | Git · GitHub · VS Code |
 
 ---
 
