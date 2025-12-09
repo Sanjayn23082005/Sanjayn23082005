@@ -20,12 +20,12 @@ Currently exploring **Cloud Computing** and **JavaScript** while working on impa
 
 ### 🌐 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript," />
 </p>
 
 ### 🖥️ Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🗄️ Databases  
@@ -35,7 +35,7 @@ Currently exploring **Cloud Computing** and **JavaScript** while working on impa
 
 ### ⚙️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,linux,aws,azure" />
 </p>
 
 ---
