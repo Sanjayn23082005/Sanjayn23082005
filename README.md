@@ -50,17 +50,6 @@ Currently exploring **Cloud Computing** and **JavaScript** while working on impa
 
 ---
 
-## 📈 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjayn23082005&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjayn23082005&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjayn23082005&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
