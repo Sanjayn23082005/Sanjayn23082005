@@ -1,22 +1,18 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#79c0ff;">Sanjay N</span></h1>
-<h3 align="center">B.Tech CSBS | Web Developer | Cloud & JavaScript Learner</h3>
+<h3 align="center">B.Tech CSBS | Web Developer</h3>
 
 ---
-
-<p align="center">
-  <img src="YOUR_PROFILE_PIC_URL" alt="profile" width="180" style="border-radius:50%; border:2px solid #58a6ff;" />
-</p>
 
 ---
 
 ## 🔥 About Me
 I'm a dedicated **software developer** passionate about building clean, responsive, and user-friendly applications.  
-Currently exploring **Cloud Computing**, **JavaScript**, and **Node.js**, while working on impactful academic and personal projects.
+Currently exploring **Cloud Computing** and **JavaScript** while working on impactful academic and personal projects.
 
 - 🌱 Learning: **AWS**, **Azure**, **Linux**, **JavaScript**  
 - 🧩 Working on: **Web projects + Data Science mini project**  
 - 🎯 Goal: Become a **Full Stack & Cloud Developer**  
-- 📩 Reach me: **sanjayn23082005@gmail.com**
+- 📩 Reach me: **sanjaynivs1@gmail.com**
 
 ---
 
@@ -50,13 +46,7 @@ Currently exploring **Cloud Computing**, **JavaScript**, and **Node.js**, while 
 - Multi-page responsive website with **Menu**, **Offers**, **Login**, and **Cart**.  
 - Built with **HTML**, **CSS**, and **JavaScript**.
 
-### 🧾 Expense Analyzer  
-- Track **expenses**, **savings**, and **budget history**.  
-- Built using **HTML**, **CSS**, **JavaScript**.
 
-### 📊 Keyboard Usage Analyzer (Mini Project)  
-- Tracks keyboard events and analyses typing behavior.  
-- Beginner-friendly **data science** project.
 
 ---
 
