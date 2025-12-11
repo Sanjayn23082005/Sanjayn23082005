@@ -35,7 +35,7 @@ Currently exploring **Cloud Computing** and **JavaScript** while working on impa
 
 ### ⚙️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,linux,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,juniper" />
 </p>
 
 ---
